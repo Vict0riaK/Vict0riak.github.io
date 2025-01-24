@@ -1,8 +1,22 @@
 ---
-layout: about
-title: About
+layout: Professional Skills matrix and action plan (PDP)
+title: PDP
 ---
 
-## About
+## Professional Skills matrix and action plan (PDP)
 
-Hi, nice to meet you.
+### Why 
+As it is stated in the assignment, the professional skills matrix should be provided. 
+### How 
+I am going to approach the Skills Matrix by using SWOT analysis technique. 
+
+### What 
+
+Strenghts: 
+
+Weaknesses:
+
+Opportunities:
+
+Threats: 
+
