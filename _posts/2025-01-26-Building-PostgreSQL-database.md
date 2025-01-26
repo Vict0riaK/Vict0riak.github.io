@@ -18,3 +18,7 @@ This code was used to create the Table Customers. On the image below you can see
 In order to test reports I generated random values using INSERT function, like this:
 
 ![Insert](https://github.com/user-attachments/assets/19bd9d6b-142d-4530-bb65-aab8eaf20ccf)
+
+In order to check station utilization I have pulled a report. Below is the code along with the output. 
+
+![Station utilization](https://github.com/user-attachments/assets/fc0c14ff-f105-4af9-b308-df78c6a02362)
