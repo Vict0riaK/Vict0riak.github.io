@@ -1,6 +1,6 @@
 ---
 layout: Professional Skills matrix and action plan (PDP)
-title: PDP
+title: About
 ---
 
 ## Professional Skills matrix and action plan (PDP)
