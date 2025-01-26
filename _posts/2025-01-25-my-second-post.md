@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflective Essay
+title: Reflection Section
 subtitle: Each post also has a subtitle
 categories: Essex Deciphering Big Data Module
 tags: [Big, data]
