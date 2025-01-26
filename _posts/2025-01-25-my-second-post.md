@@ -3,7 +3,7 @@ layout: post
 title: Reflective Essay
 subtitle: Each post also has a subtitle
 categories: Essex Deciphering Big Data Module
-tags: 
+tags: [Big, data]
 ---
 
 ## Reflection
