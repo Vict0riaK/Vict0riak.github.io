@@ -8,6 +8,7 @@ tags: [postgreSQL, database]
 ## How I have built my database
 
 I have created 4 tables using CREATE TABLE function. Below are the SQL codes I used.  
+
 CREATE TABLE Customers (
     CustomerID SERIAL PRIMARY KEY,
     Name VARCHAR(100) NOT NULL,
