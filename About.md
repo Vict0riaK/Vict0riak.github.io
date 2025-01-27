@@ -8,7 +8,7 @@ title:
 
 
 
-### Introduction
+### About
 
 I am currently a student of Essex online MSc program Data Science. Last three years I worked as a system manager for CSOD as well as SAP applications. Please refer to the attached CV for further information. 
 
