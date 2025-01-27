@@ -1,24 +1,14 @@
 ---
-layout: Professional Skills matrix and action plan (PDP)
-title: About
+layout: Curriculum Vitae
+title: 
 ---
 
 
 
-## Professional Skills matrix and action plan (PDP)
+## Introduction 
 
-### Why 
-As it is stated in the assignment, the professional skills matrix should be provided. 
-### How 
-I am going to approach the Skills Matrix by using SWOT analysis technique. 
+### 
+I am currently a student of Essex online MSc program Data Science. Last three years I worked as a system manager for CSOD as well as SAP applications. Please refer to the attached CV for further information. 
 
-### What 
 
-Strenghts: 
-
-Weaknesses:
-
-Opportunities:
-
-Threats: 
-
+[Victoria Kildyushevskaya_CV.pdf](https://github.com/user-attachments/files/18563897/Victoria.Kildyushevskaya_CV.pdf)
