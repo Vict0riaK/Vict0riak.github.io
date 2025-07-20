@@ -6,6 +6,9 @@ layout: home
 title: Machine Learning Module
 permalink: /machine-learning-module/
 banner: "assets/images/banners/machine-learning-scaled.webp"
+
+subheading: "Machine Learning"
+
 ---
 Welcome to the Machine Learning Module 
 
