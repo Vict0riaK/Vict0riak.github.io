@@ -3,7 +3,7 @@ layout: post
 title: "Peer response 1 Collaborative discussion on Industry 4.0"
 subtitle: "Initial Post"
 categories: "Machine Learning Module"
-tags: [machine, learning]
+tags: [cybersecurity, CrowdStrike, Falcon]
 ---
 
 ## Initial post by Thiago Contardi 
@@ -34,6 +34,9 @@ Hi Thiago,
 I was shocked when I learned about the CrowdStrike incident. It is unthinkable that the software could be so tightly integrated to Operation System that its routine update malfunction can turn a computer into a “brick” (Murray, 2024). When the cybersecurity leader company encounters such issue - the effect is indeed global affecting various sectors like aviation and healthcare (Murray, 2024). Luckily at home we are using McAfee or built-in Microsoft Windows software hence we are not under risk. Unfortunately there was no easy and fast fix to this problem at a time and the IT teams struggled to tackle it facing enormous time pressure (Murray, 2024)
 
 Indeed, the crisis management framework should be thought through considering such incidents and hopefully this can make organizations more resilient (Rieth, 2024) What the industry 5.0 highlights is that although AI enables humans to be more productive and creative, but it cant act instead of humans in case of such crucial events. For example, running such update on digital twin in sandbox environment could have brought attention to the risk. Decentralising the model could also help to prevent malfunction of the update. Right now the update is sent centrally to all the clients, however it could also go through staggered deployment or clients could receive it locally which would make it more resilient and in accordance with Industry 5.0 principles (Nousala et al., 2024) Industry 5.0 also encourages human authority in automated decision-making processes. In the case of CrowdStrike, the update could have been double checked before final deployment at scale. I could not agree more with your point that the human oversight is essential.
+
+
+
 **References**
 
 Murray. (2024). What is CrowdStrike Falcon and what does it do? Is my computer safe? https://theconversation.com/what-is-crowdstrike-falcon-and-what-does-it-do-is-my-computer-safe-235123
