@@ -30,5 +30,7 @@ However, industry 4.0 has a heavy emphasis on technologies while Industry 5.0 of
 **References**
 
 Kraaijenbrink, J. (2022). What Is Industry 5.0 And How It Will Radically Change Your Business Strategy? https://www.forbes.com/sites/jeroenkraaijenbrink/2022/05/24/what-is-industry-50-and-how-it-will-radically-change-your-business-strategy/ [accessed 18.07.2025]
+
 What is Industry 4.0? (n.d.). https://www.ibm.com/think/topics/industry-4-0 [accessed 18.07.2025]
+
 Nousala, S., Metcalf, G., & Ing, D. (2024). Industry 4.0 to Industry 5.0: Explorations in the Transition from a Techno-economic to a Socio-technical Future (1st ed. 2024). Springer Nature Singapore. https://link-springer-com.uniessexlib.idm.oclc.org/book/10.1007/978-981-99-9730-5 [accessed 18.07.2025]
