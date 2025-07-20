@@ -7,7 +7,7 @@ title: Machine Learning Module
 permalink: /machine-learning-module/
 banner: "assets/images/banners/machine-learning-scaled.webp"
 heading: "Machine Learning Module"
-subheading: "Machine Learning"
+
 
 ---
 Welcome to the Machine Learning Module 
