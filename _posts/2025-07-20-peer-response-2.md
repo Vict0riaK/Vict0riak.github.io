@@ -1,44 +1,34 @@
 ---
 layout: post
-title: "Peer response 1 Collaborative discussion on Industry 4.0"
+title: "Peer response 2 Collaborative discussion on Industry 4.0"
 subtitle: "Initial Post"
 categories: "Machine Learning Module"
-tags: [cybersecurity, CrowdStrike, Falcon]
+tags: [Postmaster, Scandal, Horizon]
 ---
 
-## Initial post by Thiago Contardi 
+## Initial post by Kieron 
 
-Today’s organisations operate within complex ecosystems, where digital technologies handle everything from production lines to security defences. While Industry 4.0 introduced automation and connectivity at unprecedented scale, its shortcomings underscore the need for more resilient, human-centred systems.
+The Postmasters' Scandal stands as a stark example of how technological failures, coupled with severe institutional shortcomings, can lead to widespread injustice. At its heart was the Horizon IT system, developed by Fujitsu, which was deployed by the Post Office starting in 1999. Designed to manage transactions, Horizon contained fundamental flaws that incorrectly reported financial shortfalls in branches. Instead of investigating these systemic errors, the Post Office relentlessly pursued legal action against hundreds of its own sub-postmasters, accusing them of theft and fraud (Wallis, 2021).
 
-Metcalf (2024) argues that Industry 5.0 builds on these lessons by embedding human collaboration, sustainability and operational resilience into automated processes. In cybersecurity, for example, it means that AI-driven tools must work within experts, ensuring that critical updates and configuration changes undergo human review rather than blind deployment 
+This tragic saga highlights critical failures in IT governance and ethical leadership. The Post Office's unwavering belief in Horizon's infallibility, despite mounting evidence and the desperate pleas of innocent individuals, demonstrates a catastrophic disregard for due process and basic human dignity. The scandal exposes the dangers of an organisational culture that stifles dissent, prioritises reputational protection over truth, and punishes whistleblowers. The human cost has been immense, with lives ruined, reputations destroyed, and families torn apart. This case serves as a powerful reminder of the profound responsibility organisations hold when implementing technology, and the devastating consequences when accountability, transparency, and a commitment to justice are absent (Aldred, 2022).
 
-One specific incidents have underscored the societal scale of our dependency on these systems and their far-reaching consequences: 
-
-On 19 July 2024, CrowdStrike released a routine content configuration update for its Windows sensor that inadvertently contained malformed data immediately crashing into “Blue Screens of Death” (CrowdStrike, 2024). Within hours, banks, hospitals and other crucial services found their systems unprotected. By 29 July 2024, most cases were back online, but the direct financial impact was huge and the customers’ confidence was deeply shaken.
-
-This case reveals the over-dependency paradox: as systems become ever more interconnected, the fallout from a single component failure can cascade across digital and physical infrastructures. Industry 5.0 must therefore blend automation with active human oversight, chaos-engineering exercises and decentralised architectures so that neither a misconfigured update nor an unexplained blackout can incapacitate entire services (KPI, 2023).
-
-
+Crucially, the Postmasters' Scandal serves as a cautionary tale for the Fourth Industrial Revolution (4IR). As 4IR technologies like AI, big data, and advanced automation become increasingly integrated into every facet of society and business, the potential for catastrophic system failures and algorithmic injustice escalates. The Post Office's blind faith in Horizon, an early form of widespread digital integration, mirrors the potential for over-reliance on complex 4IR systems without adequate human oversight, ethical frameworks, or robust testing. The scandal underscores the urgent need for critical scrutiny, transparent accountability, and strong ethical considerations to prevent a future where more sophisticated, yet potentially flawed, automated systems could cause even greater societal harm. It compels us to consider how such miscarriages of justice can be prevented in the future, particularly as our reliance on interconnected digital infrastructures deepens.
 
 **References**
 
-CrowdStrike (2024) Channel File 291 Incident: Root Cause Analysis is Available, 6 August. Available at: https://www.crowdstrike.com/en-us/blog/channel-file-291-rca-available/  (Accessed: 7 May 2025).
+Aldred, C. (2022) The Great Post Office Scandal. London: Orion Publishing Co.
 
-KPI (2023) 'Beware of the Automation Paradox: The Vital Role of Humans in Automation', KPI.com, 5 July. Available at: https://www.kpi.com/en/beware-of-automation-paradox/ (Accessed: 5 May 2025).
+Wallis, N. (2021) The Great Post Office Scandal: The fight to expose a multimillion pound IT disaster which put innocent people in jail. London: Bath Publishing Ltd
 
-Metcalf, G. (2024) ‘Chapter 1: An Introduction to Industry 5.0: History, Foundations, and Futures’, in Nousala, S., Metcalf, G. and Ing, D. (eds) Industry 4.0 to Industry 5.0: Explorations in the Transition from a Techno-economic to a Socio-technical Future. Singapore: Springer Nature Singapore Pte Ltd, pp. 1-29. Available at: https://doi.org/10.1007/978-981-99-9730-5
+## Response to Kieron 
+Hi Kieron,
 
-## Response to Thiago Contardi 
-Hi Thiago,
+Thank you for bringing up the Horizon scandal. It is difficult to believe right now that back in 90s the faith in technology was so strong that it was difficult to shake. Luckily the victims were finally heard and got a compensation. I am wondering whether independent audits took place regularly at that time. Perhaps the post office wanted to protect its reputation and admitting the fault would inevitably result in claims. So too many factors overlapped and lead to this scandal I assume. Ideally from the perspective of Industry 4.0 implementation of automation, data analytics, and interconnected systems could have helped to identify the system flaws sooner (Nousala et al., 2024) Industry 4.0 elevates quality control by enabling monitoring and reducing errors by integrating various sources of information, using cloud computing and embedded software to analyse data (What Is Industry 4.0?, n.d.)
 
-I was shocked when I learned about the CrowdStrike incident. It is unthinkable that the software could be so tightly integrated to Operation System that its routine update malfunction can turn a computer into a “brick” (Murray, 2024). When the cybersecurity leader company encounters such issue - the effect is indeed global affecting various sectors like aviation and healthcare (Murray, 2024). Luckily at home we are using McAfee or built-in Microsoft Windows software hence we are not under risk. Unfortunately there was no easy and fast fix to this problem at a time and the IT teams struggled to tackle it facing enormous time pressure (Murray, 2024)
-
-Indeed, the crisis management framework should be thought through considering such incidents and hopefully this can make organizations more resilient (Rieth, 2024) What the industry 5.0 highlights is that although AI enables humans to be more productive and creative, but it cant act instead of humans in case of such crucial events. For example, running such update on digital twin in sandbox environment could have brought attention to the risk. Decentralising the model could also help to prevent malfunction of the update. Right now the update is sent centrally to all the clients, however it could also go through staggered deployment or clients could receive it locally which would make it more resilient and in accordance with Industry 5.0 principles (Nousala et al., 2024) Industry 5.0 also encourages human authority in automated decision-making processes. In the case of CrowdStrike, the update could have been double checked before final deployment at scale. I could not agree more with your point that the human oversight is essential.
-
-
+However, industry 4.0 has a heavy emphasis on technologies while Industry 5.0 offers stronger advantages by keeping human in the loop before jumping into conclusion about superiority of the system. Industry 5.0 emphasizes societal value and contribution to the well being of employees on the top of technology and consists of three pillars: human-centric, resilient, and sustainable (Kraaijenbrink, 2022) If post office saw serving customers as their mission as well as adding value to the customer and perceiving it as a competitive advantage – the scandal probably would not even happen. Sustainability principle means that companies would strive to “make this world a better place” (Kraaijenbrink, 2022). I really hope that this vision will become appealing to the companies and that it will be embraced.
 
 **References**
 
-Murray. (2024). What is CrowdStrike Falcon and what does it do? Is my computer safe? https://theconversation.com/what-is-crowdstrike-falcon-and-what-does-it-do-is-my-computer-safe-235123
-Nousala, S., Metcalf, G., & Ing, D. (2024). Industry 4.0 to Industry 5.0: Explorations in the Transition from a Techno-economic to a Socio-technical Future (1st ed. 2024). Springer Nature Singapore. https://link-springer-com.uniessexlib.idm.oclc.org/book/10.1007/978-981-99-9730-5
-Rieth, B. (2024). Lessons Learned from the CrowdStrike Outage: 5 Strategies to Build Cyber Resilience. AON Plc. https://www.aon.com/en/insights/articles/building-cyber-resilience-effectively-5-lessons
+Kraaijenbrink, J. (2022). What Is Industry 5.0 And How It Will Radically Change Your Business Strategy? https://www.forbes.com/sites/jeroenkraaijenbrink/2022/05/24/what-is-industry-50-and-how-it-will-radically-change-your-business-strategy/ [accessed 18.07.2025]
+What is Industry 4.0? (n.d.). https://www.ibm.com/think/topics/industry-4-0 [accessed 18.07.2025]
+Nousala, S., Metcalf, G., & Ing, D. (2024). Industry 4.0 to Industry 5.0: Explorations in the Transition from a Techno-economic to a Socio-technical Future (1st ed. 2024). Springer Nature Singapore. https://link-springer-com.uniessexlib.idm.oclc.org/book/10.1007/978-981-99-9730-5 [accessed 18.07.2025]
