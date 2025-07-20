@@ -40,5 +40,7 @@ Indeed, the crisis management framework should be thought through considering su
 **References**
 
 Murray. (2024). What is CrowdStrike Falcon and what does it do? Is my computer safe? https://theconversation.com/what-is-crowdstrike-falcon-and-what-does-it-do-is-my-computer-safe-235123
+
 Nousala, S., Metcalf, G., & Ing, D. (2024). Industry 4.0 to Industry 5.0: Explorations in the Transition from a Techno-economic to a Socio-technical Future (1st ed. 2024). Springer Nature Singapore. https://link-springer-com.uniessexlib.idm.oclc.org/book/10.1007/978-981-99-9730-5
+
 Rieth, B. (2024). Lessons Learned from the CrowdStrike Outage: 5 Strategies to Build Cyber Resilience. AON Plc. https://www.aon.com/en/insights/articles/building-cyber-resilience-effectively-5-lessons
