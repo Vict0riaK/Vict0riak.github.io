@@ -2,7 +2,7 @@
 layout: post
 title: "Summary post Collaborative discussion on Industry 4.0"
 subtitle: "Summary Post"
-categories: "Machine Learning Module"
+categories: [Machine Learning Module]
 tags: [Sustainability, Fashion, Industry 5.0]
 ---
 
