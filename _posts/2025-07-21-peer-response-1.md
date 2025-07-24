@@ -9,7 +9,9 @@ tags: [LLM, ANN]
 
 ## Initial Post by Kieron 
 
-The realm of writing, long considered a bastion of human intellect and creativity, is now undergoing a profound transformation with the rise of "robo-writers." As Hutson (2021) compellingly details, these AI-powered language generators are no longer confined to sci-fi but are actively reshaping how we produce and consume text. This discussion invites us to critically examine the complex tapestry of risks and benefits woven by AI writers across diverse applications, from the mundane efficiency of administrative tasks to the nuanced artistry of creative expression. The inherent technical risks and uncertainties embedded within these systems warrant our close attention.
+The realm of writing, long considered a bastion of human intellect and creativity, is now undergoing a profound transformation with the rise of "robo-writers." 
+<!--more-->
+As Hutson (2021) compellingly details, these AI-powered language generators are no longer confined to sci-fi but are actively reshaping how we produce and consume text. This discussion invites us to critically examine the complex tapestry of risks and benefits woven by AI writers across diverse applications, from the mundane efficiency of administrative tasks to the nuanced artistry of creative expression. The inherent technical risks and uncertainties embedded within these systems warrant our close attention.
 
 On the administrative frontier, AI writers herald an era of unprecedented efficiency and scalability. Imagine the swift generation of routine reports, the rapid drafting of standardised communications, or the instantaneous summarisation of vast datasets. AI can liberate human capital from repetitive linguistic chores, allowing professionals to dedicate their talents to strategic thinking and complex problem-solving (Russell and Norvig, 2021). This acceleration promises tangible gains in productivity, cost reduction, and a new level of consistency in high-volume textual output, a boon for any large organisation striving for streamlined operations.
 
