@@ -2,7 +2,7 @@
 layout: post
 title: "Peer response 1 Collaborative discussion on Industry 4.0"
 subtitle: "Initial Post"
-categories: "Machine Learning Module"
+categories: [machine-learning]
 tags: [cybersecurity, CrowdStrike, Falcon]
 ---
 
