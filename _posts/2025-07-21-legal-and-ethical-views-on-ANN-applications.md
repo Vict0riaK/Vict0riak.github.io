@@ -3,7 +3,7 @@
 layout: ml-articles
 title: Machine Learning Module
 subtitle: Collaborative Discussion on legal and ethical views on ANN applications
-categories: [Machine Learning Module]
+categories: [machine-learning]
 permalink: /machine-learning-module/
 ---
 
