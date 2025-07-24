@@ -71,4 +71,16 @@ $content-width: {{ site.content_width | default: '920px' }};
   font-weight: bold;
 }
 
+.tags .tag {
+  display: inline-block;
+  padding: 4px 10px;
+  margin: 3px 5px 0 0;
+  border: 1px solid #ff5100;
+  border-radius: 15px;
+  font-size: 0.85rem;
+  color: #ff5100;
+  background-color: transparent;
+  font-weight: normal;
+  text-transform: none;
+}
 
