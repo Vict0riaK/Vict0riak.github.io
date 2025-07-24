@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Machine Learning Module
 permalink: /machine-learning-module/
 banner: "assets/images/banners/machine-learning-scaled.webp"
@@ -11,7 +11,7 @@ Here you can explore my discussion posts, reflective essays, and assignments.
 
 ---
 
-## 🧠 Posts in This Module
+## Posts in This Module
 {% for post in site.categories.machine-learning %}
   <div class="post-preview">
     <h2><a class="post-title" href="{{ post.url }}">{{ post.title }}</a></h2>
