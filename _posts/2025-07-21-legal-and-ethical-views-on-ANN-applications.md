@@ -14,7 +14,7 @@ tags: [LLM, ANN]
 
 After reading Hutson’s paper I am really surprised that it is possible to submit a paper to a scientific conference without full transparency on data, code and the rest. I understand that it is a very competitive field but truly withdrawing information affects the scientific discourse. I really loved the point that as humans learn through the dialog so probably it is the way for LLMs and I am looking forward to this development (Hutson, 2021).
 
- 
+ <!--more-->
 
 When it comes to risks I really think the biggest risk when it comes to LLMs is that people tend to believe what they see and read and as for example on social media so LLMs can influence such things going forward as elections and not only (Jones, 2025) When I think about the data the model is trained on and the bias it already has it is really challenging to fine tune it in a way that it can reason, reflect, rephrase to avoid radicalizing content (Hutson, 2021). There was an attempt to address the shortcomings of LLMs by enabling reasoning but as of now the results are not great and the model collapses to zero if the reasoning complexity is high (Shojaee et al., n.d.) The controlled study to evaluate reasoning skills of LLMs conducted by Shojaee et.al. concluded that “despite sophisticated self-reflection mechanisms, these models fail to develop generalizable reasoning capabilities beyond certain complexity thresholds” (Shojaee et al., n.d.)
 
