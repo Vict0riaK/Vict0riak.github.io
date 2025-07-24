@@ -8,7 +8,9 @@ tags: [Postmaster, Scandal, Horizon]
 
 ## Initial post by Kieron 
 
-The Postmasters' Scandal stands as a stark example of how technological failures, coupled with severe institutional shortcomings, can lead to widespread injustice. At its heart was the Horizon IT system, developed by Fujitsu, which was deployed by the Post Office starting in 1999. Designed to manage transactions, Horizon contained fundamental flaws that incorrectly reported financial shortfalls in branches. Instead of investigating these systemic errors, the Post Office relentlessly pursued legal action against hundreds of its own sub-postmasters, accusing them of theft and fraud (Wallis, 2021).
+The Postmasters' Scandal stands as a stark example of how technological failures, coupled with severe institutional shortcomings, can lead to widespread injustice.
+<!--more-->
+At its heart was the Horizon IT system, developed by Fujitsu, which was deployed by the Post Office starting in 1999. Designed to manage transactions, Horizon contained fundamental flaws that incorrectly reported financial shortfalls in branches. Instead of investigating these systemic errors, the Post Office relentlessly pursued legal action against hundreds of its own sub-postmasters, accusing them of theft and fraud (Wallis, 2021).
 
 This tragic saga highlights critical failures in IT governance and ethical leadership. The Post Office's unwavering belief in Horizon's infallibility, despite mounting evidence and the desperate pleas of innocent individuals, demonstrates a catastrophic disregard for due process and basic human dignity. The scandal exposes the dangers of an organisational culture that stifles dissent, prioritises reputational protection over truth, and punishes whistleblowers. The human cost has been immense, with lives ruined, reputations destroyed, and families torn apart. This case serves as a powerful reminder of the profound responsibility organisations hold when implementing technology, and the devastating consequences when accountability, transparency, and a commitment to justice are absent (Aldred, 2022).
 
