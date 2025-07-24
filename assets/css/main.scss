@@ -39,14 +39,16 @@ $content-width: {{ site.content_width | default: '920px' }};
 /* === Custom Style Overrides === */
 
 /* Make post title links white */
-.post-title {
+.post-link {
   color: white !important;
   text-decoration: none;
 }
 
-.post-title:hover {
+.post-link:hover {
+  color: white !important; /* or any hover color you prefer */
   text-decoration: underline;
 }
+
 
 /* Make all body text white */
 .post-preview,
