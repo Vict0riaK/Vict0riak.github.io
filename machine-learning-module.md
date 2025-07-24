@@ -22,7 +22,7 @@ Here you can explore my discussion posts, reflective essays, and assignments.
       {{ post.excerpt }}
     </div>
 
-    <p><a href="{{ post.url }}">Read More</a></p>
+    <p><a class="read-more" href="{{ post.url }}">Read More</a></p>
 
     {% if post.tags %}
       <p class="tags">
@@ -31,6 +31,11 @@ Here you can explore my discussion posts, reflective essays, and assignments.
         {% endfor %}
       </p>
     {% endif %}
+
+    <hr />
+  </div>
+{% endfor %}
+
 
     <hr />
   </div>
