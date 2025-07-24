@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Peer response 1 Collaborative Discussion 2: Legal and Ethical Views on ANN Applications"
 subtitle: "Peer response 1"
 categories: [machine-learning]
