@@ -12,6 +12,9 @@ layout: default
         <p class="post-meta">{{ post.date | date: "%b %d, %Y" }}</p>
         <p class="excerpt">{{ post.excerpt }}</p>
 
+        <!-- ✅ This is the new line -->
+        <p><a class="read-more" href="{{ post.url | relative_url }}">Read More →</a></p>
+
         {% if post.tags %}
           <p class="tags">
             {% for tag in post.tags %}
