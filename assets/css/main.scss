@@ -63,14 +63,6 @@ $content-width: {{ site.content_width | default: '920px' }};
   text-decoration: underline;
 }
 
-/* Make tags orange only */
-.tags .tag {
-  color: #ff5100 !important; /* matches your brand "orangered" */
-  background: transparent;
-  border: none;
-  font-weight: bold;
-}
-
 .tags .tag {
   display: inline-block;
   padding: 4px 10px;
