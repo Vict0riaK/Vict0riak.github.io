@@ -14,22 +14,27 @@ Here you can explore my discussion posts, reflective essays, and assignments.
 ## 🧠 Posts in This Module
 
 {% for post in site.categories.machine-learning %}
-  <article>
+  <div class="post-preview">
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    
     <p><small>{{ post.date | date: "%b %d, %Y" }} &bull; About {{ post.content | number_of_words | divided_by: 200 }} mins</small></p>
 
-    <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
+    <div class="excerpt">
+      {{ post.excerpt | strip_html | truncatewords: 50 }}
+    </div>
 
     <p><a href="{{ post.url }}">Read More</a></p>
 
-    <p>
-      {% if post.tags %}
+    {% if post.tags %}
+      <p class="tags">
         {% for tag in post.tags %}
-          <span>#{{ tag }}</span>
+          <span class="tag">#{{ tag }}</span>
         {% endfor %}
-      {% endif %}
-    </p>
+      </p>
+    {% endif %}
+
     <hr />
-  </article>
+  </div>
 {% endfor %}
+
 
