@@ -12,15 +12,14 @@ Here you can explore my discussion posts, reflective essays, and assignments.
 ---
 
 ## 🧠 Posts in This Module
-
 {% for post in site.categories.machine-learning %}
   <div class="post-preview">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <h2><a class="post-title" href="{{ post.url }}">{{ post.title }}</a></h2>
     
-    <p><small>{{ post.date | date: "%b %d, %Y" }} &bull; About {{ post.content | number_of_words | divided_by: 200 }} mins</small></p>
+    <p class="post-meta">{{ post.date | date: "%b %d, %Y" }}</p>
 
-    <div class="excerpt">
-      {{ post.excerpt | strip_html | truncatewords: 50 }}
+    <div class="post-excerpt">
+      {{ post.excerpt }}
     </div>
 
     <p><a href="{{ post.url }}">Read More</a></p>
@@ -36,5 +35,6 @@ Here you can explore my discussion posts, reflective essays, and assignments.
     <hr />
   </div>
 {% endfor %}
+
 
 
