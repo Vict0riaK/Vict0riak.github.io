@@ -9,7 +9,7 @@ tags: [LLM, ANN]
 ## Initial Post by Opeyemi 
 
 The integration of artificial neural networks (ANNs), particularly large language models (LLMs) like GPT-3, into writing tasks presents a complex interplay of benefits and risks across various domains, from administrative functions to creative endeavours.
-
+<!--more-->
 Benefits
 
 In administrative contexts, AI writers enhance efficiency by automating routine tasks such as drafting emails, summarising documents, and generating reports. This automation allows human workers to allocate more time to strategic and creative responsibilities.
