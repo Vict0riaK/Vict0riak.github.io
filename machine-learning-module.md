@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: module
 title: Machine Learning Module
 permalink: /machine-learning-module/
 banner: "assets/images/banners/machine-learning-scaled.webp"
