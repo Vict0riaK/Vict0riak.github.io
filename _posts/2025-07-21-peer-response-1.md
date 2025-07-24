@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: default
 title: "Peer response 1 Collaborative Discussion 2: Legal and Ethical Views on ANN Applications"
 subtitle: "Peer response 1"
-categories: [Machine Learning Module]
+categories: [machine-learning]
 
 tags: [LLM, ANN]
 ---
