@@ -36,3 +36,37 @@ $brand-color: map-get($brand-colors, "orangered");
 $content-width: {{ site.content_width | default: '920px' }};
 
 @import "yat";
+/* === Custom Style Overrides === */
+
+/* Make post title links white */
+.post-title {
+  color: white !important;
+  text-decoration: none;
+}
+
+.post-title:hover {
+  text-decoration: underline;
+}
+
+/* Make all body text white */
+.post-preview,
+.post-preview p,
+.post-excerpt {
+  color: white !important;
+}
+
+/* Make the "Read More" link white */
+.read-more {
+  color: white !important;
+  text-decoration: underline;
+}
+
+/* Make tags orange only */
+.tags .tag {
+  color: #ff5100 !important; /* matches your brand "orangered" */
+  background: transparent;
+  border: none;
+  font-weight: bold;
+}
+
+
