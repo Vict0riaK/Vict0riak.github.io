@@ -2,7 +2,7 @@
 layout: post
 title: "Collaborative discussion 1: Industry 4.0"
 subtitle: "Initial Post"
-categories: [Machine Learning Module]
+categories: categories: [machine-learning]
 tags: [machine, learning]
 ---
 
