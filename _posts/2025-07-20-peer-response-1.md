@@ -8,7 +8,9 @@ tags: [cybersecurity, CrowdStrike, Falcon]
 
 ## Initial post by Thiago Contardi 
 
-Today’s organisations operate within complex ecosystems, where digital technologies handle everything from production lines to security defences. While Industry 4.0 introduced automation and connectivity at unprecedented scale, its shortcomings underscore the need for more resilient, human-centred systems.
+Today’s organisations operate within complex ecosystems, where digital technologies handle everything from production lines to security defences. 
+<!--more-->
+While Industry 4.0 introduced automation and connectivity at unprecedented scale, its shortcomings underscore the need for more resilient, human-centred systems.
 
 Metcalf (2024) argues that Industry 5.0 builds on these lessons by embedding human collaboration, sustainability and operational resilience into automated processes. In cybersecurity, for example, it means that AI-driven tools must work within experts, ensuring that critical updates and configuration changes undergo human review rather than blind deployment 
 
