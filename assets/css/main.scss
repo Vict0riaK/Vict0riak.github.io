@@ -68,8 +68,8 @@ $content-width: {{ site.content_width | default: '920px' }};
   display: inline-block;
   padding: 4px 8px;
   margin: 3px 5px 0 0;
-  border: 1px solid $brand-color !important;   // Important: prevents override
-  border-radius: 0 !important;                 // Key line: removes round corners
+  border: 1px solid $brand-color !important;
+  border-radius: 0 !important;
   font-size: 0.8rem;
   color: $brand-color;
   background-color: transparent;
@@ -85,13 +85,15 @@ $content-width: {{ site.content_width | default: '920px' }};
     cursor: pointer;
   }
 }
+
+/* === Limit Excerpt to 3 Lines with Ellipsis === */
 .post-excerpt {
   display: -webkit-box;
-  -webkit-line-clamp: 3;       // Limits to 3 lines
+  -webkit-line-clamp: 3;           /* Limits to 3 lines */
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-height: 6em;             // Optional: fine-tune spacing
+  max-height: 6em;                 /* Adjust spacing to match 3 lines */
 }
 
 
