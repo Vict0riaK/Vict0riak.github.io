@@ -1,8 +1,25 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+# Homepage for Big Data Module
 layout: home
 title: Big Data Module
 banner: "assets/images/banners/BigData.jpg"
 ---
+
+<!-- Optional: Intro content -->
+Welcome to the Big Data Module. Below you'll find articles from the Machine Learning Module.
+
+<div class="posts">
+  {% for post in site.posts %}
+    {% if post.categories contains "Machine Learning Module" %}
+      <article class="post-preview">
+        <h2><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h2>
+
+        <div class="post-excerpt">
+          {{ post.excerpt }}
+        </div>
+
+        <a class="read-more" href="{{ post.url }}">Read More</a>
+      </article>
+    {% endif %}
+  {% endfor %}
+</div>
