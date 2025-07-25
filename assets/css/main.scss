@@ -65,10 +65,10 @@ $content-width: {{ site.content_width | default: '920px' }};
 
 .tags .tag {
   display: inline-block;
-  padding: 4px 8px;             // Adjust spacing
+  padding: 4px 8px;
   margin: 3px 5px 0 0;
-  border: 1px solid $brand-color;  // Uses your SASS variable
-  border-radius: 4px;              // Less rounded = more rectangular
+  border: 1px solid $brand-color;  // Your site’s highlight color
+  border-radius: 0;                // <-- No rounding!
   font-size: 0.8rem;
   color: $brand-color;
   background-color: transparent;
@@ -76,5 +76,6 @@ $content-width: {{ site.content_width | default: '920px' }};
   text-transform: none;
   font-family: sans-serif;
 }
+
 
 
