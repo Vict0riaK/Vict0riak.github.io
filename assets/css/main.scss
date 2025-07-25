@@ -85,6 +85,14 @@ $content-width: {{ site.content_width | default: '920px' }};
     cursor: pointer;
   }
 }
+.post-excerpt {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;       // Limits to 3 lines
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-height: 6em;             // Optional: fine-tune spacing
+}
 
 
 
