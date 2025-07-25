@@ -2,14 +2,13 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-// Default theme colors
+/* === Color Variables === */
 $theme-colors: (
   "coolblack": #090a0b,
   "spacegrey": #353535,
   "snowwhite": #ffffff,
 );
 
-// Default brand colors
 $brand-colors: (
   "orangered": #ff5100,
   "greatgold": #f2cb05,
@@ -35,47 +34,58 @@ $brand-color: map-get($brand-colors, "orangered");
 
 $content-width: {{ site.content_width | default: '920px' }};
 
+/* === Load Theme === */
 @import "yat";
+
 /* === Custom Style Overrides === */
 
-/* Make post title links white */
+/* Post Title Links */
 .post-link {
   color: white !important;
   text-decoration: none;
+
+  &:hover {
+    color: white !important;
+    text-decoration: underline;
+  }
 }
 
-.post-link:hover {
-  color: white !important; /* or any hover color you prefer */
-  text-decoration: underline;
-}
-
-
-/* Make all body text white */
+/* Body Text */
 .post-preview,
 .post-preview p,
 .post-excerpt {
   color: white !important;
 }
 
-/* Make the "Read More" link white */
+/* "Read More" Link */
 .read-more {
   color: white !important;
   text-decoration: underline;
 }
 
+/* === Tag Styling (No Rounded Corners) === */
 .tags .tag {
   display: inline-block;
   padding: 4px 8px;
   margin: 3px 5px 0 0;
-  border: 1px solid $brand-color;  // Your site’s highlight color
-  border-radius: 0;                // <-- No rounding!
+  border: 1px solid $brand-color !important;   // Important: prevents override
+  border-radius: 0 !important;                 // Key line: removes round corners
   font-size: 0.8rem;
   color: $brand-color;
   background-color: transparent;
   font-weight: 500;
   text-transform: none;
   font-family: sans-serif;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: $brand-color;
+    color: $theme-color;
+    cursor: pointer;
+  }
 }
+
 
 
 
