@@ -10,7 +10,6 @@ tags: [Sustainability, Fashion, Industry 5.0]
 
 I completely agree; In lower-income countries, Industry 5.0 has potential to make a significant impact. By implementing a human-centric approach within advanced technologies, such as AI, it can improve transparency, sustainability, and social responsibility. For example, studies highlight how digital solutions and circular logistics can empower emerging economies to participate in higher-value supply chains, breaking the cycle of exploitation (Sharma et al., 2024).
 <!--more-->
-
 Turning to fashion industry and the considerable amount of data leaked in recent years. New measures could be applied to mitigate the problem. Maybe new regulations that require encrypting all personal data may enhance security and reduce liability.
 
 In short, Industry 5.0 offers a blueprint: it empowers socially responsible supply chains, opens pathways for economic development in poorer countries, and provides the technological tools to secure consumer trust in data handling.
